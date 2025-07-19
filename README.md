@@ -1,7 +1,15 @@
-# Logo
-Every graphic file with minimum resolution 512x512 and visually represents a repository or a project/program, is to be considered a logo. It must **not** be in `.ico` format.
+# OceanApocalypseStudios Brand Guidelines
+The purpose of this repository is to provide an official, centralized way for refering to OceanApocalypseStudios via the use of their assets.
 
-# Icon
-Every graphic file with minimum resolution 16x16 and recommended maximum resolution 512x512 and is similar to the logo, while representing it with the size limitations, is to be considered an icon. It must **not** be in `.jpg`, `.png`, `.gif`, `.webp` or derivates.
+## Credits
+Before proceeding, please read the [Credits Information](CREDITS.txt) as it contains information about typeface and other assets we used.
 
-Icons can be used by executable files and may contain several resolutions in the same file.
+## Logo
+The OceanApocalypseStudios official logo is one of the most simple and direct visual representations of the brand.
+
+See the [`Logo`](/Logo) folder.
+
+Each project also has their own logos and icons, which can be found on the matching directories.
+
+## License
+Everything in this repository is licensed under [CC BY-NC 4.0](LICENSE.md).
