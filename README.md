@@ -9,4 +9,4 @@ See the [`Logo`](/Logo) folder.
 Each project also has their own logos and icons, which can be found on the matching directories.
 
 ## License
-Everything in this repository is licensed under [CC BY-NC 4.0](LICENSE.md).
+Everything in this repository is licensed under [this license](LICENSE.txt).
