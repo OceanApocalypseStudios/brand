@@ -1,9 +1,6 @@
 # OceanApocalypseStudios Brand Guidelines
 The purpose of this repository is to provide an official, centralized way for refering to OceanApocalypseStudios via the use of their assets.
 
-## Credits
-Before proceeding, please read the [Credits Information](CREDITS.txt) as it contains information about typeface and other assets we used.
-
 ## Logo
 The OceanApocalypseStudios official logo is one of the most simple and direct visual representations of the brand.
 
