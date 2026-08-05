@@ -1,8 +1,8 @@
-# OceanApocalypseStudios Brand Guidelines
-The purpose of this repository is to provide an official, centralized way for refering to OceanApocalypseStudios via the use of their assets.
+# OceanApocalypse Brand Guidelines
+The purpose of this repository is to provide an official, centralized way for refering to Ocean Apocalypse via the use of their assets.
 
 ## Logo
-The OceanApocalypseStudios official logo is one of the most simple and direct visual representations of the brand.
+The Ocean Apocalypse official logo is one of the most simple and direct visual representations of the brand.
 
 See the [`Logo`](/Logo) folder.
 
